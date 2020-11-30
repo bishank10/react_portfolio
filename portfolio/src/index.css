@@ -6,7 +6,7 @@ body {
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #3D5467; /* Green */
     color: #ffffff;
   }
   .bg-2 { 
@@ -35,11 +35,14 @@ body {
     letter-spacing: 5px;
   }
   .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #81d4c4 !important;
   }
  .img-circle{
     display:inline;
     
+  }
+  .btn-default {
+      margin: 10px;
   }
   /* .margin{
     width: 100%
