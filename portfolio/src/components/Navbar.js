@@ -1,5 +1,7 @@
 import React from 'react';
 import '../index.css'
+import { Link, useLocation } from "react-router-dom";
+
 
 function Navbar() {
     return (
@@ -16,9 +18,9 @@ function Navbar() {
                     </div>
                     <div className="collapse navbar-collapse" id="myNavbar">
                         <ul className="nav navbar-nav navbar-right">
-                            <li><a href="#">Home</a></li>
+                            <li><Link to="/"> Home</Link></li>
                             <li><a href="#">About</a></li>
-                            <li><a href="#">Projects</a></li>
+                            <li> <Link to="/projects"> Projects</Link></li>
                         </ul>
                     </div>
                 </div>

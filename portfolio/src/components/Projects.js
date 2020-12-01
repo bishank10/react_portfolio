@@ -6,6 +6,7 @@ import image from "../bishank.jpg"
 function Projects() {
     return (
         <>
+        <a href="project"></a>
             <div className="container-fluid bg-3 text-center">
                 <h3 className="margin">Where To Find Me?</h3><br />
                 <div className="row">
