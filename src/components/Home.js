@@ -9,9 +9,9 @@ function Home() {
   return (
     <>
       <div className="container-fluid bg-1 text-center">
-        <h3 className="margin">Bishank Bohara</h3>
+        <h3 className="margin">I'm glad you are here!</h3>
         <img src={image} className="img-responsive img-circle margin" alt="Bird" width="350" height="350" />
-        <h3>I'm an  advnaklbnar</h3>
+        <h3>I'm one of the best web developer. I might be just the person that your team is looking for in order to create extraordinary web experience. Now, that you are here why not checkout some of my work below and learn more about me.</h3>
       </div>
 
 
