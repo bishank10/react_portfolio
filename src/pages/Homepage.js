@@ -1,8 +1,9 @@
 import React from 'react';
-import '../index.css'
-import image from "../bishank.jpg"
-import Projects from "../components/Projects"
-import About from "../components/About"
+import '../index.css';
+import image from "../bishank.jpg";
+import Projects from "../components/Projects";
+import About from "../components/About";
+import Random from "../components/Random"
 
 function Home() {
     return (
@@ -14,9 +15,11 @@ function Home() {
             </div>
             <About />
             <Projects />
+            <Random />
+
         
         </>
     )
 }
 
-export default Home
+export default Home;

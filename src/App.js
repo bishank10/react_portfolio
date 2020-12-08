@@ -6,6 +6,7 @@ import Homepage from "./pages/Homepage";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import About from "./components/About";
+import Random from './components/Random'
 
 
 
