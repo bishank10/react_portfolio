@@ -17,9 +17,9 @@ function App() {
       <Navbar />
       <div>
         <Route  exact path={["/react_portfolio","/home"]} component={Homepage} />
-        <Route exact path="/projects" component={Projects} />
-        <Route  exact path="/about" component={About} />
-      </div>
+        <Route   path="/projects" component={Projects} />
+        <Route   path="/about" component={About} />
+        </div>
       <Footer />
     </BrowserRouter>
 
