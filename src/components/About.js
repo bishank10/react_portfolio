@@ -5,7 +5,7 @@ import { FaGithubSquare } from "react-icons/fa";
 import { GrLinkedin } from "react-icons/gr";
 import { SiGmail } from "react-icons/si";
 
-function Home() {
+function About() {
     return (
         <>
             <div className="container-fluid bg-2 text-center">
@@ -34,4 +34,4 @@ function Home() {
     )
 }
 
-export default Home
+export default About;

@@ -19,7 +19,7 @@ function Navbar() {
                     <div className="collapse navbar-collapse" id="myNavbar">
                         <ul className="nav navbar-nav navbar-right">
                             <li><Link to="/"> Home</Link></li>
-                            <li><a href="/about">About</a></li>
+                            <li><Link to="/about">About</Link></li>
                             <li> <Link to="/projects"> Projects</Link></li>
                         </ul>
                     </div>

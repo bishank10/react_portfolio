@@ -42,12 +42,22 @@ body {
     display:inline;
     
   }
+
   .btn-default {
       margin: 10px;
   }
-  /* .margin{
-    width: 100%
-  } */
+
+  .card{
+   height: 220px;
+   border: 6px solid khaki;
+    border-radius: 3%;
+  } 
+
+  .card:hover{
+    opacity: 0.5;
+  }
+
+ 
   .projects{
     text-align: left;
   }
