@@ -5,7 +5,7 @@ import Projects from "../components/Projects";
 import About from "../components/About";
 
 
-function Home() {
+function Homepage() {
     return (
         <>
             <div className="container-fluid bg-1 text-center">
@@ -15,10 +15,8 @@ function Home() {
             </div>
             <About />
             <Projects />
-           
-
         </>
     )
 }
 
-export default Home;
+export default Homepage;
