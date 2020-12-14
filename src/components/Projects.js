@@ -22,8 +22,7 @@ function Projects() {
                     with the world. The app gives you the ability to sign up and have your own profile. Logging into the app with
                     your profile will let you post your product, view it and you can provide your feedback by liking or disliking
                     it.The app also gives you an advanced search option to help you navigate on the app. If you do not have a login
-                    you can still view the website as a guest and have a look at all the products.
-                        I played a key role by making the HTML template ready. I also added function</p>
+                    you can still view the website as a guest and have a look at all the products.I played a key role by making the HTML template, added functionality on all the buttons, functionality of saving data in hashed form and CSS.</p>
                 </div>
                 <div className="col-sm-4 projects">
                     <h2>React-Menu</h2>
@@ -36,7 +35,7 @@ function Projects() {
                     <p>We named this project "GIFTR". This is a full stack app that was built using MERN(Mongoose, Express, React, Node ) to ease the pain of finding gifts or add gifts to the list during festive seasons. It simplifies the process and allows users to add their gifts which can be retrieved by any other users. Users  can also leave a review on the product.
                     I played a key role in developing the client side and the server side of review and Review form components. I also assisted in setting up the route listeners on the server side for the rest of the components.
                     Designed a RESTful API using express, node and mongoose that allowed users to save gifts and reviews.
-</p>
+                    </p>
                 </div>
             </div>
         </div>
